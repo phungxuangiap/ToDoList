@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item3_option1"
+        android:title="Doing" />
+    <item
+        android:id="@+id/menu_item3_option2"
+        android:title="Haven't finished" />
+    <item
+        android:id="@+id/menu_item3_option3"
+        android:title="Finished" />
+    <item
+        android:id="@+id/menu_item3_option4"
+        android:title="Cancle" />
+    <item
+        android:id="@+id/menu_item3_option5"
+        android:title="Late time" />
+</menu>
